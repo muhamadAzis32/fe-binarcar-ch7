@@ -16,6 +16,9 @@ Team Members:
 
 ## Backend
 
+https://github.com/muhamadAzis32/be-binarcar-ch7
+
+<!--
 1. Change directory to `Backend` folder
 2. Configure `.env` file
 3. Run your Postgresql client, you can run it from pgAdmin 4
@@ -28,6 +31,7 @@ yarn db:migrate
 yarn db:seed
 yarn develop
 ```
+-->
 
 ## Frontend
 

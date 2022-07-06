@@ -1,0 +1,634 @@
+/*
+*
+* MUHAMAD AZIS - FSW5
+*
+*/
+
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+/* ************* FORMAT TEXT & BUTTON ************* */
+h1 {
+    font-size: 36px;
+    line-height: 50px;
+    font-weight: 600;
+    color: black;
+}
+
+h2 {
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 600;
+    color: black;
+}
+
+p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #000000;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-item-btn {
+    background: #5CB85F;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding: 8px 15px;
+    border-radius: 2px;
+    display: unset;
+}
+
+.nav-item-btn:hover {
+    background: #409b43;
+    color: #FFFFFF;
+}
+
+/* ************* .FORMAT TEXT & BUTTON************* */
+
+/* ************* NAVBAR ************* */
+.bg-abu {
+    background: #F1F3FF;
+}
+
+.navbar .nav-item .nav-link {
+    font-size: 14px;
+    font-weight: 400;
+    color: #000000 !important;
+    margin: 0 20px;
+}
+
+.navbar .nav-item .nav-link:hover {
+    color: #0D28A6 !important;
+}
+
+
+.navbar-nav li a {
+    color: white !important;
+}
+
+/* ************* .NAVBAR ************* */
+
+/* ************* HERO ************* */
+.hero {
+    background: #F1F3FF;
+    padding-bottom: 7rem;
+    position: relative;
+}
+
+.hero p {
+    margin-bottom: 10px;
+    width: 80%;
+}
+
+.hero h1 {
+    padding-top: 95px;
+}
+
+.hero img {
+    position: absolute;
+    right: 0;
+    /* top: 30px; */
+    /* max-width: 704px; */
+}
+
+/* ************* .HERO ************* */
+
+
+/* ************* SERVICES ************* */
+.our-services {
+    margin-top: 100px;
+}
+
+.our-services .services-body {
+    margin-bottom: 10px;
+}
+
+.our-services .icon-box {
+    float: left;
+    margin-right: 12px;
+}
+
+.our-services .value {
+    line-height: 28px;
+    font-weight: 300;
+}
+
+.our-services .item-check {
+    margin-bottom: 10px;
+}
+
+/* ************* .SERVICES ************* */
+
+
+/* ************* WHY USE************* */
+.why-use {
+    margin-top: 100px;
+}
+
+.why-use .why-header {
+    margin-bottom: 30px;
+}
+
+.why-use .card {
+    background: #fff;
+    border-radius: 5px;
+
+}
+
+.why-use .card-title {
+    font-weight: bold;
+    font-size: 16px;
+    color: #000000;
+}
+
+.why-use .card-text {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+    width: 90%;
+}
+
+/* ************* .WHY USE************* */
+
+/* ************* TESTIMONIAL ************* */
+.testimonial {
+    margin-top: 100px;
+}
+
+.testimonial .testi-header {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.testimonial .item img {
+    width: 50% !important;
+}
+
+.testimonial .card {
+    background: #F1F3FF;
+    border: none;
+    padding: 80px 20px;
+}
+
+.testimonial .card-actor {
+    margin-right: 0;
+    padding-right: 0;
+}
+
+.testimonial .text-success {
+    color: #F9CC00 !important;
+    text-decoration: none;
+}
+
+.testimonial .card-text {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.testimonial .card-title {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+/* ************* .TESTIMONIAL ************* */
+
+
+/* ************* ABOUT ************* */
+.about {
+    margin-top: 100px;
+}
+
+.about .card {
+    background: #0D28A6;
+    padding: 70px 50px;
+    border-radius: 13px;
+    color: white;
+}
+
+.about .card-title {
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 54px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.about .card-text {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    color: #dfdede;
+    margin-bottom: 50px;
+}
+
+/* ************* .ABOUT ************* */
+
+
+/* ************* FAQ************* */
+.faq {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.faq .accordion-item {
+    margin-bottom: 20px;
+    border: 1px solid #D4D4D4;
+}
+
+.faq .accordion-button {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 20px;
+    letter-spacing: 0em;
+}
+
+.faq .accordion-body {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 20px;
+    letter-spacing: 0em;
+}
+
+/* ************* .FAQ************* */
+
+
+/* ************* FOOTER ************* */
+footer a {
+    font-size: 14px;
+}
+
+footer .footer_social {
+    margin-right: 10px;
+}
+
+footer .link-footer {
+    color: black;
+}
+
+footer .link-footer:hover {
+    color: blue;
+}
+
+/* ************* .FOOTER ************* */
+
+/* ************* Custom Carousel nav ************* */
+.btn-nav {
+    height: 32px;
+    line-height: 28px;
+    width: 32px;
+    font-size: 22px;
+    font-weight: 600;
+    border-radius: 50%;
+    background-color: white;
+    border: 1px solid #C4C4C4;
+    color: #000000;
+    text-align: center;
+    cursor: pointer;
+}
+
+.btn-nav:hover {
+    background-color: #4CAF50;
+    color: white;
+    border: 1px solid #4CAF50;
+}
+
+.owl-carousel .owl-nav button.owl-next,
+.owl-carousel .owl-nav button.owl-prev,
+.owl-carousel button.owl-dot {
+    background-color: white !important;
+
+}
+
+/* *************. Custom Carousel nav ************* */
+
+/* ************* CARS FILTER ************* */
+
+.cars-filter {
+    position: relative;
+    margin-top: -40px;
+    padding: 25px 25px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+}
+
+.cars-filter .border-user {
+    border: 1px solid #ced4da !important;
+}
+
+.cars-filter .form-label,
+.cars-filter .form-control,
+.cars-filter .form-select,
+.cars-filter .btn {
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 18px;
+    color: #3C3C3C;
+}
+
+.cars-filter .nav-item-btn {
+    margin-top: 27px;
+}
+
+.cars-filter .input-group>:not(:first-child):not(.dropdown-menu):not(.valid-tooltip):not(.valid-feedback):not(.invalid-tooltip):not(.invalid-feedback) {
+    margin-left: -1px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-left: 0 !important;
+}
+
+select:focus>option:checked {
+    background: #C9E7CA !important;
+}
+
+
+
+/* .container-mobil {
+    padding: 27px 84px;
+} */
+
+.card-mobil {
+    padding: 24px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+}
+
+.card-mobil .keterangan-mobil .tipe {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+    margin-top: 16px;
+}
+
+.card-mobil .keterangan-mobil .title {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    margin: 8px 0;
+}
+
+.card-mobil .keterangan-mobil .keterangan {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 16px;
+}
+
+.card-mobil .spesifikasi-detail {
+    margin-bottom: 8px;
+}
+
+.card-mobil .spesifikasi-icon {
+    padding-right: 10px;
+}
+
+.card-mobil .nav-item-btn {
+    font-size: 12px;
+}
+
+.card-mobil .img-mobil {
+    object-fit: cover;
+    object-position: center;
+    height: 200px;
+    width: 100%;
+    border-radius: 5px;
+}
+
+
+
+.select2 {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+
+    background: url("#") white no-repeat 98.5% !important;
+    background: url("#") white no-repeat calc(100% - 10px) !important;
+}
+
+.select2::-ms-expand {
+    display: none;
+}
+
+.select-tipe option:hover {
+    background-color: #409b43 !important;
+}
+
+
+
+/* *************. CARS FILTER ************* */
+
+/* ======================================================================================================= */
+
+
+/* `sm` applies to x-small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+
+    /* ************* HERO ************* */
+    .hero {
+        background: #F1F3FF;
+        padding-bottom: 0rem;
+        position: unset;
+    }
+
+    .hero p {
+        width: 100%;
+    }
+
+    .hero h1 {
+        padding-top: 20px;
+    }
+
+    .hero img {
+        position: unset;
+        right: 0;
+        top: 0px;
+        /* padding-top: 30px; */
+    }
+
+    /* *************. HERO ************* */
+
+}
+
+
+/* `md` applies to small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {
+
+    /* ************* HERO ************* */
+    .hero p {
+        width: 100%;
+    }
+
+    .hero h1 {
+        width: 100%;
+    }
+
+    /* *************. HERO ************* */
+
+}
+
+
+/* `lg` applies to medium devices (tablets, less than 992px) */
+@media (max-width : 992px) {
+
+    /* ************* NAVBAR ************* */
+    .offcanvas {
+        width: 250px !important;
+        background-color: white;
+    }
+
+    .offcanvas-start-lg {
+        top: 0;
+        right: 0;
+        border-right: 1px solid rgba(0, 0, 0, .2);
+        transform: translateX(100%);
+    }
+
+    .offcanvas-body {
+        flex-grow: 1;
+        padding: 0rem 0rem;
+        overflow-y: auto;
+    }
+
+    .offcanvas-header {
+        padding: 1rem 1.3rem;
+    }
+
+    .nav-item-btn {
+        max-width: 100px;
+    }
+
+    .nav-item {
+        margin-top: 0 !important;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .navbar .nav-item .nav-link {
+        padding-top: 0;
+    }
+
+    .navbar-light .navbar-toggler {
+        border: none;
+    }
+
+    /* *************. NAVBAR ************* */
+
+    /* ************* HERO ************* */
+    .hero {
+        background: #F1F3FF;
+        padding-bottom: 0rem;
+        padding-top: 60px;
+        position: relative;
+    }
+
+
+    .hero h1 {
+        padding-top: 20px;
+    }
+
+    .hero img {
+        position: relative;
+        right: 0;
+        padding-top: 30px;
+        width: 100%;
+    }
+
+    /* *************. HERO ************* */
+
+
+    /* ************* OUR SERVICES ************* */
+    .our-services .ilustrasi-services {
+        margin-bottom: 2rem;
+    }
+
+    /* ************* OUR SERVICES ************* */
+
+
+    .why-use .why-header {
+        text-align: center;
+    }
+
+    .testimonial .font-10 {
+        text-align: center;
+    }
+
+    .faq p {
+        margin-bottom: 30px;
+    }
+
+    .faq .faq-header {
+        text-align: center;
+    }
+
+    /* Filter data */
+    .insert-card-cars {
+        padding: unset !important;
+    }
+
+
+}
+
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+    /* ************* HERO ************* */
+    .hero {
+        padding-bottom: 3rem;
+        position: relative;
+    }
+
+    .hero img {
+        position: absolute;
+        top: 15%;
+        max-width: 540px;
+    }
+
+    /* ************* .HERO ************* */
+
+    /* ************* NAVBAR ************* */
+    .offcanvas {
+        visibility: visible;
+        position: relative;
+        background: none;
+        border: none;
+        justify-content: end;
+        color: #000000;
+    }
+
+    /* *************. NAVBAR ************* */
+}
+
+/* // X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+    /* ************* HERO ************* */
+    .hero {
+        padding-bottom: 9rem;
+    }
+
+    .hero img {
+        max-width: 704px;
+        top: 60px;
+    }
+
+    /* ************* .HERO ************* */
+}

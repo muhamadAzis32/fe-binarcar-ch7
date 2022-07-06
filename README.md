@@ -1,4 +1,10 @@
 # Chapter 07 Challenge FSW 5
+- email     : admin@gmail.com
+- password  : admin@gmail.com
+
+
+![FireShot Capture 217 - BCR - Binar Car Rental - fe-binarcar-ch7 vercel app](https://user-images.githubusercontent.com/88225954/177532725-14fcb460-d221-4f29-b18e-4d54606322f6.png)
+![FireShot Capture 216 - BCR - Binar Car Rental - fe-binarcar-ch7 vercel app](https://user-images.githubusercontent.com/88225954/177532731-6005ae20-5246-4529-af32-2fb243c69c8c.png)
 
 # Team:
 

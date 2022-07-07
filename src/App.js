@@ -24,7 +24,7 @@ function App() {
           <Route
             path="/login"
             element={
-              <GoogleOAuthProvider clientId="965030953893-b39eu89jnterq3sd8bdo013oja0gq54m.apps.googleusercontent.com">
+              <GoogleOAuthProvider clientId="862620400274-hs54q3o6bm4f2vu704c4qi20nq4l12os.apps.googleusercontent.com">
                 <Login />
               </GoogleOAuthProvider>
             }
@@ -32,7 +32,7 @@ function App() {
           <Route
             path="/register"
             element={
-              <GoogleOAuthProvider clientId="965030953893-b39eu89jnterq3sd8bdo013oja0gq54m.apps.googleusercontent.com">
+              <GoogleOAuthProvider clientId="862620400274-hs54q3o6bm4f2vu704c4qi20nq4l12os.apps.googleusercontent.com">
                 <Register />
               </GoogleOAuthProvider>
             }
